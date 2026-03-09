@@ -107,7 +107,7 @@ A full-featured chat application built with the **MERN stack** + **Socket.io**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rahulrajkushwaha05-181717?style=for-the-badge&logo=github)](https://github.com/Rahulrajkushwaha05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahulrajkushwaha)
-[![Gmail](https://img.shields.io/badge/Gmail-rahulrajkushwaha05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajkushwaha05@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-rahulrajkushwaha0786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajkushwaha0786@gmail.com)
 
 </div>
 
